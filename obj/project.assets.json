@@ -28532,11 +28532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Sam/Projects/MVC/MVC.csproj",
+      "projectUniqueName": "/Users/Sam/Projects/MVC.csproj",
       "projectName": "MVC",
-      "projectPath": "/Users/Sam/Projects/MVC/MVC.csproj",
+      "projectPath": "/Users/Sam/Projects/MVC.csproj",
       "packagesPath": "/Users/Sam/.nuget/packages/",
-      "outputPath": "/Users/Sam/Projects/MVC/obj",
+      "outputPath": "/Users/Sam/Projects/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{6B4C7866-DA53-443E-BF50-E6B1A08E3DCD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MVC Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Projects Status">
     <Files>
-      <File FileName="MVC Status" />
+      <File FileName="Pages/Test.cshtml" Line="3" Column="38" />
+      <File FileName="Projects Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
