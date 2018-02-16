@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6B4C7866-DA53-443E-BF50-E6B1A08E3DCD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC Status">
+    <Files>
+      <File FileName="MVC Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MVC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
