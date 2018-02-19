@@ -1,0 +1,11 @@
+/Users/Sam/Projects/NewRazor/bin/Debug/netcoreapp2.0/NewRazor.deps.json
+/Users/Sam/Projects/NewRazor/bin/Debug/netcoreapp2.0/NewRazor.runtimeconfig.json
+/Users/Sam/Projects/NewRazor/bin/Debug/netcoreapp2.0/NewRazor.runtimeconfig.dev.json
+/Users/Sam/Projects/NewRazor/bin/Debug/netcoreapp2.0/NewRazor.dll
+/Users/Sam/Projects/NewRazor/bin/Debug/netcoreapp2.0/NewRazor.pdb
+/Users/Sam/Projects/NewRazor/obj/Debug/netcoreapp2.0/NewRazor.csprojResolveAssemblyReference.cache
+/Users/Sam/Projects/NewRazor/obj/Debug/netcoreapp2.0/NewRazor.csproj.CoreCompileInputs.cache
+/Users/Sam/Projects/NewRazor/obj/Debug/netcoreapp2.0/NewRazor.AssemblyInfoInputs.cache
+/Users/Sam/Projects/NewRazor/obj/Debug/netcoreapp2.0/NewRazor.AssemblyInfo.cs
+/Users/Sam/Projects/NewRazor/obj/Debug/netcoreapp2.0/NewRazor.dll
+/Users/Sam/Projects/NewRazor/obj/Debug/netcoreapp2.0/NewRazor.pdb
